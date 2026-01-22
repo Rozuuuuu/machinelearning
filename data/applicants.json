@@ -1,0 +1,1472 @@
+{
+    "users": [
+        {
+            "user_id": "PH-001",
+            "full_name": "Jose M. Dela Cruz",
+            "demographics": {
+                "age": 29,
+                "gender": "Male",
+                "civil_status": "Single",
+                "location": {
+                    "city": "Makati City",
+                    "province": "Metro Manila",
+                    "region": "NCR"
+                }
+            },
+            "employment_status": "Employed",
+            "resume": {
+                "current_job_title": "Senior React Developer",
+                "experience": [
+                    {
+                        "title": "Senior React Developer",
+                        "company": "Globe Telecom",
+                        "duration": "2021 - Present",
+                        "responsibilities": [
+                            "Lead frontend migration",
+                            "Mentor junior devs",
+                            "Optimize performance"
+                        ]
+                    },
+                    {
+                        "title": "Full Stack Developer",
+                        "company": "Smarter PH",
+                        "duration": "2018 - 2021",
+                        "responsibilities": [
+                            "Internal tool dev",
+                            "API integration",
+                            "Database management"
+                        ]
+                    }
+                ],
+                "total_years_experience": 6,
+                "skills": {
+                    "technical": [
+                        "React",
+                        "TypeScript",
+                        "Node.js",
+                        "Docker",
+                        "AWS"
+                    ],
+                    "non_technical": [
+                        "Leadership",
+                        "Agile Mindset",
+                        "Communication"
+                    ]
+                },
+                "education": {
+                    "degree": "B.S. Computer Science",
+                    "institution": "University of the Philippines Diliman"
+                }
+            },
+            "interests": [
+                "Photography",
+                "Open Source",
+                "Basketball"
+            ],
+            "contact_information": {
+                "email": "jose.delacruz@email.ph",
+                "mobile": "+63 917 123 4567"
+            }
+        },
+        {
+            "user_id": "PH-002",
+            "full_name": "Ma. Isabella S. Santos",
+            "demographics": {
+                "age": 26,
+                "gender": "Female",
+                "civil_status": "Single",
+                "location": {
+                    "city": "Cebu City",
+                    "province": "Cebu",
+                    "region": "Region VII"
+                }
+            },
+            "employment_status": "Unemployed",
+            "resume": {
+                "current_job_title": null,
+                "experience": [
+                    {
+                        "title": "UX Designer",
+                        "company": "AppCraft Cebu",
+                        "duration": "2021 - 2023",
+                        "responsibilities": [
+                            "Mobile app design",
+                            "User research",
+                            "Prototyping"
+                        ]
+                    },
+                    {
+                        "title": "Graphic Artist",
+                        "company": "DesignPH",
+                        "duration": "2019 - 2021",
+                        "responsibilities": [
+                            "Social media assets",
+                            "Branding",
+                            "Client revisions"
+                        ]
+                    }
+                ],
+                "total_years_experience": 4,
+                "skills": {
+                    "technical": [
+                        "Figma",
+                        "Adobe XD",
+                        "Sketch",
+                        "HTML/CSS"
+                    ],
+                    "non_technical": [
+                        "Empathy",
+                        "Creativity",
+                        "Visual Storytelling"
+                    ]
+                },
+                "education": {
+                    "degree": "B.F.A. Visual Communication",
+                    "institution": "University of San Carlos"
+                }
+            },
+            "interests": [
+                "Digital Illustration",
+                "Cafe Hopping",
+                "Traveling"
+            ],
+            "contact_information": {
+                "email": "isabella.santos@email.com",
+                "mobile": "+63 920 987 6543"
+            }
+        },
+        {
+            "user_id": "PH-003",
+            "full_name": "Rafael G. Reyes",
+            "demographics": {
+                "age": 34,
+                "gender": "Male",
+                "civil_status": "Married",
+                "location": {
+                    "city": "Davao City",
+                    "province": "Davao del Sur",
+                    "region": "Region XI"
+                }
+            },
+            "employment_status": "Employed",
+            "resume": {
+                "current_job_title": "Project Manager",
+                "experience": [
+                    {
+                        "title": "Project Manager",
+                        "company": "Accenture Philippines",
+                        "duration": "2020 - Present",
+                        "responsibilities": [
+                            "Resource planning",
+                            "Client stakeholder management",
+                            "Risk assessment"
+                        ]
+                    },
+                    {
+                        "title": "Scrum Master",
+                        "company": "TechLogix",
+                        "duration": "2016 - 2020",
+                        "responsibilities": [
+                            "Process improvement",
+                            "Team coaching",
+                            "Sprint planning"
+                        ]
+                    }
+                ],
+                "total_years_experience": 10,
+                "skills": {
+                    "technical": [
+                        "JIRA",
+                        "Asana",
+                        "PowerBI",
+                        "SQL"
+                    ],
+                    "non_technical": [
+                        "Negotiation",
+                        "Conflict Resolution",
+                        "Strategic Planning"
+                    ]
+                },
+                "education": {
+                    "degree": "B.S. Information Technology",
+                    "institution": "Ateneo de Davao University"
+                }
+            },
+            "interests": [
+                "Agriculture",
+                "Chess",
+                "Backpacking"
+            ],
+            "contact_information": {
+                "email": "rafael.reyes@workmail.ph",
+                "mobile": "+63 945 111 2233"
+            }
+        },
+        {
+            "user_id": "PH-004",
+            "full_name": "Katrina L. Mendoza",
+            "demographics": {
+                "age": 24,
+                "gender": "Female",
+                "civil_status": "Single",
+                "location": {
+                    "city": "Quezon City",
+                    "province": "Metro Manila",
+                    "region": "NCR"
+                }
+            },
+            "employment_status": "Employed",
+            "resume": {
+                "current_job_title": "Junior Data Analyst",
+                "experience": [
+                    {
+                        "title": "Junior Data Analyst",
+                        "company": "Shopee Philippines",
+                        "duration": "2023 - Present",
+                        "responsibilities": [
+                            "Sales trend analysis",
+                            "Dashboard maintenance",
+                            "Campaign reporting"
+                        ]
+                    }
+                ],
+                "total_years_experience": 1,
+                "skills": {
+                    "technical": [
+                        "Excel",
+                        "Python",
+                        "SQL",
+                        "Tableau"
+                    ],
+                    "non_technical": [
+                        "Analytical Thinking",
+                        "Attention to Detail",
+                        "Teamwork"
+                    ]
+                },
+                "education": {
+                    "degree": "B.S. Statistics",
+                    "institution": "Polytechnic University of the Philippines"
+                }
+            },
+            "interests": [
+                "K-Drama",
+                "Cooking",
+                "Webtoons"
+            ],
+            "contact_information": {
+                "email": "kat.mendoza@email.com",
+                "mobile": "+63 908 444 5566"
+            }
+        },
+        {
+            "user_id": "PH-005",
+            "full_name": "Antonio B. Villanueva",
+            "demographics": {
+                "age": 42,
+                "gender": "Male",
+                "civil_status": "Married",
+                "location": {
+                    "city": "Pasig City",
+                    "province": "Metro Manila",
+                    "region": "NCR"
+                }
+            },
+            "employment_status": "Employed",
+            "resume": {
+                "current_job_title": "IT Director",
+                "experience": [
+                    {
+                        "title": "IT Director",
+                        "company": "BDO Unibank",
+                        "duration": "2018 - Present",
+                        "responsibilities": [
+                            "Infrastructure strategy",
+                            "Budgeting",
+                            "Security policy enforcement"
+                        ]
+                    },
+                    {
+                        "title": "Infrastructure Manager",
+                        "company": "Meralco",
+                        "duration": "2010 - 2018",
+                        "responsibilities": [
+                            "Network design",
+                            "Disaster recovery",
+                            "Vendor management"
+                        ]
+                    }
+                ],
+                "total_years_experience": 18,
+                "skills": {
+                    "technical": [
+                        "Cisco Networking",
+                        "Cybersecurity",
+                        "Cloud Migration",
+                        "Compliance"
+                    ],
+                    "non_technical": [
+                        "Executive Leadership",
+                        "Decision Making",
+                        "Mentorship"
+                    ]
+                },
+                "education": {
+                    "degree": "M.S. Information Systems",
+                    "institution": "De La Salle University"
+                }
+            },
+            "interests": [
+                "Golf",
+                "Classical Music",
+                "Investment"
+            ],
+            "contact_information": {
+                "email": "avillanueva@pro-it.ph",
+                "mobile": "+63 918 888 7766"
+            }
+        },
+        {
+            "user_id": "PH-006",
+            "full_name": "Liza G. Soberano",
+            "demographics": {
+                "age": 27,
+                "gender": "Female",
+                "civil_status": "Single",
+                "location": {
+                    "city": "Baguio City",
+                    "province": "Benguet",
+                    "region": "CAR"
+                }
+            },
+            "employment_status": "Unemployed",
+            "resume": {
+                "current_job_title": null,
+                "experience": [
+                    {
+                        "title": "Content Strategist",
+                        "company": "MediaLink PH",
+                        "duration": "2020 - 2023",
+                        "responsibilities": [
+                            "Editorial planning",
+                            "SEO optimization",
+                            "Ghostwriting"
+                        ]
+                    }
+                ],
+                "total_years_experience": 3,
+                "skills": {
+                    "technical": [
+                        "SEO",
+                        "WordPress",
+                        "Canva",
+                        "Copywriting"
+                    ],
+                    "non_technical": [
+                        "Research",
+                        "Public Speaking",
+                        "Adaptability"
+                    ]
+                },
+                "education": {
+                    "degree": "B.A. Journalism",
+                    "institution": "UP Baguio"
+                }
+            },
+            "interests": [
+                "Modern Literature",
+                "Environmentalism",
+                "Pottery"
+            ],
+            "contact_information": {
+                "email": "liza.soberano@web.com",
+                "mobile": "+63 999 555 1212"
+            }
+        },
+        {
+            "user_id": "PH-007",
+            "full_name": "Dante C. Alighieri",
+            "demographics": {
+                "age": 31,
+                "gender": "Male",
+                "civil_status": "Single",
+                "location": {
+                    "city": "Taguig City",
+                    "province": "Metro Manila",
+                    "region": "NCR"
+                }
+            },
+            "employment_status": "Employed",
+            "resume": {
+                "current_job_title": "DevOps Engineer",
+                "experience": [
+                    {
+                        "title": "DevOps Engineer",
+                        "company": "ING Hubs Philippines",
+                        "duration": "2022 - Present",
+                        "responsibilities": [
+                            "CI/CD pipeline automation",
+                            "Kubernetes orchestration",
+                            "Security scanning integration"
+                        ]
+                    },
+                    {
+                        "title": "Systems Administrator",
+                        "company": "Pointwest",
+                        "duration": "2018 - 2022",
+                        "responsibilities": [
+                            "Linux server maintenance",
+                            "Backup systems",
+                            "Shell scripting"
+                        ]
+                    }
+                ],
+                "total_years_experience": 6,
+                "skills": {
+                    "technical": [
+                        "Kubernetes",
+                        "Terraform",
+                        "Jenkins",
+                        "Azure"
+                    ],
+                    "non_technical": [
+                        "Problem Solving",
+                        "Time Management",
+                        "Collaboration"
+                    ]
+                },
+                "education": {
+                    "degree": "B.S. Electronics Engineering",
+                    "institution": "Mapua University"
+                }
+            },
+            "interests": [
+                "History",
+                "E-sports",
+                "Archery"
+            ],
+            "contact_information": {
+                "email": "dante.a@devops.ph",
+                "mobile": "+63 927 345 6789"
+            }
+        },
+        {
+            "user_id": "PH-008",
+            "full_name": "Patricia M. Lopez",
+            "demographics": {
+                "age": 25,
+                "gender": "Female",
+                "civil_status": "Single",
+                "location": {
+                    "city": "Iloilo City",
+                    "province": "Iloilo",
+                    "region": "Region VI"
+                }
+            },
+            "employment_status": "Employed",
+            "resume": {
+                "current_job_title": "Mobile Developer",
+                "experience": [
+                    {
+                        "title": "Mobile Developer",
+                        "company": "TechIsland Iloilo",
+                        "duration": "2023 - Present",
+                        "responsibilities": [
+                            "Flutter app development",
+                            "Local database sync",
+                            "App store deployment"
+                        ]
+                    }
+                ],
+                "total_years_experience": 2,
+                "skills": {
+                    "technical": [
+                        "Flutter",
+                        "Dart",
+                        "Firebase",
+                        "Git"
+                    ],
+                    "non_technical": [
+                        "Design Thinking",
+                        "Documentation",
+                        "Peer Review"
+                    ]
+                },
+                "education": {
+                    "degree": "B.S. Software Engineering",
+                    "institution": "University of the Philippines Visayas"
+                }
+            },
+            "interests": [
+                "Cycling",
+                "Coffee Brewing",
+                "Local Tourism"
+            ],
+            "contact_information": {
+                "email": "pat.lopez@flutter.ph",
+                "mobile": "+63 916 222 3333"
+            }
+        },
+        {
+            "user_id": "PH-009",
+            "full_name": "Emilio A. Aguinaldo",
+            "demographics": {
+                "age": 38,
+                "gender": "Male",
+                "civil_status": "Married",
+                "location": {
+                    "city": "Dasmariñas",
+                    "province": "Cavite",
+                    "region": "Region IV-A"
+                }
+            },
+            "employment_status": "Employed",
+            "resume": {
+                "current_job_title": "Quality Assurance Manager",
+                "experience": [
+                    {
+                        "title": "QA Manager",
+                        "company": "Samsung R&D Philippines",
+                        "duration": "2019 - Present",
+                        "responsibilities": [
+                            "Test strategy design",
+                            "Automation framework oversight",
+                            "Quality metrics reporting"
+                        ]
+                    },
+                    {
+                        "title": "Senior QA Engineer",
+                        "company": "GlobalPayments",
+                        "duration": "2014 - 2019",
+                        "responsibilities": [
+                            "Manual/Automated testing",
+                            "Bug tracking",
+                            "Regression testing"
+                        ]
+                    }
+                ],
+                "total_years_experience": 14,
+                "skills": {
+                    "technical": [
+                        "Selenium",
+                        "Appium",
+                        "Postman",
+                        "C#"
+                    ],
+                    "non_technical": [
+                        "Critical Thinking",
+                        "Leadership",
+                        "Accountability"
+                    ]
+                },
+                "education": {
+                    "degree": "B.S. Computer Engineering",
+                    "institution": "Cavite State University"
+                }
+            },
+            "interests": [
+                "Philately",
+                "Model Trains",
+                "Outdoor Camping"
+            ],
+            "contact_information": {
+                "email": "emil.aguinaldo@test.ph",
+                "mobile": "+63 915 777 8888"
+            }
+        },
+        {
+            "user_id": "PH-010",
+            "full_name": "Corazon C. Aquino",
+            "demographics": {
+                "age": 30,
+                "gender": "Female",
+                "civil_status": "Widowed",
+                "location": {
+                    "city": "Angeles City",
+                    "province": "Pampanga",
+                    "region": "Region III"
+                }
+            },
+            "employment_status": "Unemployed",
+            "resume": {
+                "current_job_title": null,
+                "experience": [
+                    {
+                        "title": "Customer Success Lead",
+                        "company": "CloudStaff",
+                        "duration": "2018 - 2023",
+                        "responsibilities": [
+                            "Client retention",
+                            "Support team management",
+                            "Onboarding workflows"
+                        ]
+                    }
+                ],
+                "total_years_experience": 8,
+                "skills": {
+                    "technical": [
+                        "Salesforce",
+                        "Zendesk",
+                        "Hubspot"
+                    ],
+                    "non_technical": [
+                        "Customer Empathy",
+                        "Active Listening",
+                        "Negotiation"
+                    ]
+                },
+                "education": {
+                    "degree": "B.S. Psychology",
+                    "institution": "Holy Angel University"
+                }
+            },
+            "interests": [
+                "Social Work",
+                "Cooking Kapampangan Dishes",
+                "Singing"
+            ],
+            "contact_information": {
+                "email": "cora.aquino@service.ph",
+                "mobile": "+63 905 678 1234"
+            }
+        },
+        {
+            "user_id": "PH-011",
+            "full_name": "Andres P. Bonifacio",
+            "demographics": {
+                "age": 28,
+                "gender": "Male",
+                "civil_status": "Single",
+                "location": {
+                    "city": "Manila",
+                    "province": "Metro Manila",
+                    "region": "NCR"
+                }
+            },
+            "employment_status": "Employed",
+            "resume": {
+                "current_job_title": "Cloud Architect",
+                "experience": [
+                    {
+                        "title": "Cloud Architect",
+                        "company": "Amazon Web Services (PH)",
+                        "duration": "2021 - Present",
+                        "responsibilities": [
+                            "Architecture review",
+                            "Solution design",
+                            "Cost optimization"
+                        ]
+                    },
+                    {
+                        "title": "Solutions Engineer",
+                        "company": "FPT Software",
+                        "duration": "2018 - 2021",
+                        "responsibilities": [
+                            "Cloud provisioning",
+                            "Client demos",
+                            "Technical documentation"
+                        ]
+                    }
+                ],
+                "total_years_experience": 7,
+                "skills": {
+                    "technical": [
+                        "AWS Solution Architecture",
+                        "Networking",
+                        "IAM",
+                        "Serverless"
+                    ],
+                    "non_technical": [
+                        "Strategic Thinking",
+                        "Persuasion",
+                        "Systemic View"
+                    ]
+                },
+                "education": {
+                    "degree": "B.S. Information Science",
+                    "institution": "University of Santo Tomas"
+                }
+            },
+            "interests": [
+                "Public Speaking",
+                "Arnis",
+                "Reading History"
+            ],
+            "contact_information": {
+                "email": "andres.boni@aws.com",
+                "mobile": "+63 917 555 4444"
+            }
+        },
+        {
+            "user_id": "PH-012",
+            "full_name": "Maria Clara de los Santos",
+            "age": 23,
+            "gender": "Female",
+            "civil_status": "Single",
+            "location": {
+                "city": "San Fernando",
+                "province": "La Union",
+                "region": "Region I"
+            },
+            "employment_status": "Employed",
+            "resume": {
+                "current_job_title": "Frontend Developer",
+                "experience": [
+                    {
+                        "title": "Frontend Developer",
+                        "company": "Elyu Tech",
+                        "duration": "2023 - Present",
+                        "responsibilities": [
+                            "Responsive dashboard dev",
+                            "API integration",
+                            "Code maintenance"
+                        ]
+                    }
+                ],
+                "total_years_experience": 2,
+                "skills": {
+                    "technical": [
+                        "Vue.js",
+                        "Tailwind CSS",
+                        "Nuxt",
+                        "JavaScript"
+                    ],
+                    "non_technical": [
+                        "Fast Learner",
+                        "Problem Solving",
+                        "Responsiveness"
+                    ]
+                },
+                "education": {
+                    "degree": "B.S. Computer Science",
+                    "institution": "Don Mariano Marcos Memorial State University"
+                }
+            },
+            "interests": [
+                "Surfing",
+                "Beach Cleaning",
+                "Graphic Design"
+            ],
+            "contact_information": {
+                "email": "mclara@elyu.io",
+                "mobile": "+63 919 444 6677"
+            }
+        },
+        {
+            "user_id": "PH-013",
+            "full_name": "Ramon M. Magsaysay",
+            "demographics": {
+                "age": 36,
+                "gender": "Male",
+                "civil_status": "Married",
+                "location": {
+                    "city": "Olongapo City",
+                    "province": "Zambales",
+                    "region": "Region III"
+                }
+            },
+            "employment_status": "Employed",
+            "resume": {
+                "current_job_title": "HR Director",
+                "experience": [
+                    {
+                        "title": "HR Director",
+                        "company": "Concentrix Philippines",
+                        "duration": "2019 - Present",
+                        "responsibilities": [
+                            "Large scale recruitment",
+                            "Employee welfare programs",
+                            "Labor relations"
+                        ]
+                    }
+                ],
+                "total_years_experience": 13,
+                "skills": {
+                    "technical": [
+                        "Workday",
+                        "SAP HR",
+                        "Labor Law Compliance"
+                    ],
+                    "non_technical": [
+                        "Empathy",
+                        "Integrity",
+                        "Leadership"
+                    ]
+                },
+                "education": {
+                    "degree": "B.S. Psychology",
+                    "institution": "University of the Philippines Diliman"
+                }
+            },
+            "interests": [
+                "Public Service",
+                "Gardening",
+                "Basketball"
+            ],
+            "contact_information": {
+                "email": "ramon.mag@hr.ph",
+                "mobile": "+63 928 333 4444"
+            }
+        },
+        {
+            "user_id": "PH-014",
+            "full_name": "Lea T. Salonga",
+            "demographics": {
+                "age": 29,
+                "gender": "Female",
+                "civil_status": "Single",
+                "location": {
+                    "city": "Makati City",
+                    "province": "Metro Manila",
+                    "region": "NCR"
+                }
+            },
+            "employment_status": "Unemployed",
+            "resume": {
+                "current_job_title": null,
+                "experience": [
+                    {
+                        "title": "Project Coordinator",
+                        "company": "CCP",
+                        "duration": "2020 - 2024",
+                        "responsibilities": [
+                            "Event logistics",
+                            "Contract negotiation",
+                            "Artist management"
+                        ]
+                    }
+                ],
+                "total_years_experience": 6,
+                "skills": {
+                    "technical": [
+                        "Project Management",
+                        "MS Office",
+                        "G-Suite"
+                    ],
+                    "non_technical": [
+                        "Musicality",
+                        "Organization",
+                        "Public Relations"
+                    ]
+                },
+                "education": {
+                    "degree": "B.A. Arts Management",
+                    "institution": "Ateneo de Manila University"
+                }
+            },
+            "interests": [
+                "Musical Theater",
+                "Reading",
+                "Baking"
+            ],
+            "contact_information": {
+                "email": "lea.sal@arts.ph",
+                "mobile": "+63 917 667 8899"
+            }
+        },
+        {
+            "user_id": "PH-015",
+            "full_name": "Manny P. Pacquiao",
+            "demographics": {
+                "age": 33,
+                "gender": "Male",
+                "civil_status": "Married",
+                "location": {
+                    "city": "General Santos City",
+                    "province": "South Cotabato",
+                    "region": "Region XII"
+                }
+            },
+            "employment_status": "Employed",
+            "resume": {
+                "current_job_title": "Network Engineer",
+                "experience": [
+                    {
+                        "title": "Network Engineer",
+                        "company": "PLDT",
+                        "duration": "2016 - Present",
+                        "responsibilities": [
+                            "Fiber optic maintenance",
+                            "Switch configuration",
+                            "NOC monitoring"
+                        ]
+                    }
+                ],
+                "total_years_experience": 9,
+                "skills": {
+                    "technical": [
+                        "CCNA",
+                        "Routing/Switching",
+                        "Fiber Optics"
+                    ],
+                    "non_technical": [
+                        "Stamina",
+                        "Discipline",
+                        "Focus"
+                    ]
+                },
+                "education": {
+                    "degree": "B.S. ECE",
+                    "institution": "Mindanao State University"
+                }
+            },
+            "interests": [
+                "Boxing",
+                "Singing",
+                "Policy Making"
+            ],
+            "contact_information": {
+                "email": "manny.p@pldt.net",
+                "mobile": "+63 920 123 7777"
+            }
+        },
+        {
+            "user_id": "PH-016",
+            "full_name": "Pia W. Wurtzbach",
+            "demographics": {
+                "age": 27,
+                "gender": "Female",
+                "civil_status": "Single",
+                "location": {
+                    "city": "Cagayan de Oro",
+                    "province": "Misamis Oriental",
+                    "region": "Region X"
+                }
+            },
+            "employment_status": "Employed",
+            "resume": {
+                "current_job_title": "Marketing Manager",
+                "experience": [
+                    {
+                        "title": "Marketing Manager",
+                        "company": "Ayala Malls",
+                        "duration": "2021 - Present",
+                        "responsibilities": [
+                            "Brand strategy",
+                            "Influencer marketing",
+                            "ROI tracking"
+                        ]
+                    }
+                ],
+                "total_years_experience": 5,
+                "skills": {
+                    "technical": [
+                        "Digital Marketing",
+                        "Analytics",
+                        "Budgeting"
+                    ],
+                    "non_technical": [
+                        "Grace Under Pressure",
+                        "Confidence",
+                        "Communication"
+                    ]
+                },
+                "education": {
+                    "degree": "B.S. Marketing",
+                    "institution": "Xavier University - Ateneo de Cagayan"
+                }
+            },
+            "interests": [
+                "Fashion",
+                "Cooking",
+                "Social Advocacy"
+            ],
+            "contact_information": {
+                "email": "pia.w@marketing.ph",
+                "mobile": "+63 945 999 0000"
+            }
+        },
+        {
+            "user_id": "PH-017",
+            "full_name": "Ferdinand M. Magellan",
+            "demographics": {
+                "age": 35,
+                "gender": "Male",
+                "civil_status": "Single",
+                "location": {
+                    "city": "Zamboanga City",
+                    "province": "Zamboanga del Sur",
+                    "region": "Region IX"
+                }
+            },
+            "employment_status": "Unemployed",
+            "resume": {
+                "current_job_title": null,
+                "experience": [
+                    {
+                        "title": "Logistics Coordinator",
+                        "company": "2GO Group",
+                        "duration": "2018 - 2024",
+                        "responsibilities": [
+                            "Fleet management",
+                            "Route optimization",
+                            "Inventory control"
+                        ]
+                    }
+                ],
+                "total_years_experience": 11,
+                "skills": {
+                    "technical": [
+                        "Supply Chain Management",
+                        "ERP",
+                        "Fleet Tracking"
+                    ],
+                    "non_technical": [
+                        "Navigation",
+                        "Resilience",
+                        "Planning"
+                    ]
+                },
+                "education": {
+                    "degree": "B.S. Customs Administration",
+                    "institution": "Zamboanga State College"
+                }
+            },
+            "interests": [
+                "Sailing",
+                "Geography",
+                "History"
+            ],
+            "contact_information": {
+                "email": "ferd.mag@logistics.ph",
+                "mobile": "+63 917 111 0000"
+            }
+        },
+        {
+            "user_id": "PH-018",
+            "full_name": "Gloria M. Arroyo",
+            "demographics": {
+                "age": 45,
+                "gender": "Female",
+                "civil_status": "Married",
+                "location": {
+                    "city": "Lubao",
+                    "province": "Pampanga",
+                    "region": "Region III"
+                }
+            },
+            "employment_status": "Employed",
+            "resume": {
+                "current_job_title": "Economist",
+                "experience": [
+                    {
+                        "title": "Senior Economist",
+                        "company": "NEDA",
+                        "duration": "2010 - Present",
+                        "responsibilities": [
+                            "Macroeconomic forecasting",
+                            "Policy advisory",
+                            "Budget analysis"
+                        ]
+                    }
+                ],
+                "total_years_experience": 22,
+                "skills": {
+                    "technical": [
+                        "Econometrics",
+                        "STATA",
+                        "Policy Analysis"
+                    ],
+                    "non_technical": [
+                        "Strategy",
+                        "Political Intelligence",
+                        "Negotiation"
+                    ]
+                },
+                "education": {
+                    "degree": "Ph.D. Economics",
+                    "institution": "UP Diliman"
+                }
+            },
+            "interests": [
+                "Governance",
+                "Teaching",
+                "Asian Studies"
+            ],
+            "contact_information": {
+                "email": "gla@neda.gov.ph",
+                "mobile": "+63 922 456 7890"
+            }
+        },
+        {
+            "user_id": "PH-019",
+            "full_name": "Luzviminda B. Aglipay",
+            "demographics": {
+                "age": 22,
+                "gender": "Female",
+                "civil_status": "Single",
+                "location": {
+                    "city": "Tuguegarao City",
+                    "province": "Cagayan",
+                    "region": "Region II"
+                }
+            },
+            "employment_status": "Unemployed",
+            "resume": {
+                "current_job_title": null,
+                "experience": [],
+                "total_years_experience": 0,
+                "skills": {
+                    "technical": [
+                        "Photoshop",
+                        "Social Media"
+                    ],
+                    "non_technical": [
+                        "Fast Learner",
+                        "Energy",
+                        "Communication"
+                    ]
+                },
+                "education": {
+                    "degree": "B.S. Tourism",
+                    "institution": "USL Tuguegarao"
+                }
+            },
+            "interests": [
+                "Traveling",
+                "Bouldering",
+                "Languages"
+            ],
+            "contact_information": {
+                "email": "luz.b@mail.ph",
+                "mobile": "+63 906 123 4567"
+            }
+        },
+        {
+            "user_id": "PH-020",
+            "full_name": "Lapu Lapu",
+            "demographics": {
+                "age": 32,
+                "gender": "Male",
+                "civil_status": "Single",
+                "location": {
+                    "city": "Lapu-Lapu City",
+                    "province": "Cebu",
+                    "region": "Region VII"
+                }
+            },
+            "employment_status": "Employed",
+            "resume": {
+                "current_job_title": "Security Consultant",
+                "experience": [
+                    {
+                        "title": "Security Consultant",
+                        "company": "Mactan Security",
+                        "duration": "2017 - Present",
+                        "responsibilities": [
+                            "Threat assessment",
+                            "Staff training",
+                            "Security audits"
+                        ]
+                    }
+                ],
+                "total_years_experience": 12,
+                "skills": {
+                    "technical": [
+                        "Risk Analysis",
+                        "Physical Security",
+                        "Surveillance"
+                    ],
+                    "non_technical": [
+                        "Bravery",
+                        "Strategic Defense",
+                        "Leadership"
+                    ]
+                },
+                "education": {
+                    "degree": "B.S. Criminology",
+                    "institution": "University of the Visayas"
+                }
+            },
+            "interests": [
+                "History",
+                "Martial Arts",
+                "Island Hopping"
+            ],
+            "contact_information": {
+                "email": "lapu.lapu@security.ph",
+                "mobile": "+63 917 777 0000"
+            }
+        },
+        {
+            "user_id": "PH-021",
+            "full_name": "Melchora Aquino",
+            "demographics": {
+                "age": 40,
+                "gender": "Female",
+                "civil_status": "Widowed",
+                "location": {
+                    "city": "Caloocan City",
+                    "province": "Metro Manila",
+                    "region": "NCR"
+                }
+            },
+            "employment_status": "Employed",
+            "resume": {
+                "current_job_title": "Operations Manager",
+                "experience": [
+                    {
+                        "title": "Operations Manager",
+                        "company": "SM Supermalls",
+                        "duration": "2015 - Present",
+                        "responsibilities": [
+                            "Store operations",
+                            "Customer service policy",
+                            "Employee welfare"
+                        ]
+                    }
+                ],
+                "total_years_experience": 18,
+                "skills": {
+                    "technical": [
+                        "Retail Ops",
+                        "Inventory Mgmt",
+                        "Logistics"
+                    ],
+                    "non_technical": [
+                        "Matriarchal Leadership",
+                        "Hospitality",
+                        "Resilience"
+                    ]
+                },
+                "education": {
+                    "degree": "B.S. Business Admin",
+                    "institution": "FEU Manila"
+                }
+            },
+            "interests": [
+                "Community Health",
+                "Cooking",
+                "Social History"
+            ],
+            "contact_information": {
+                "email": "melchora.a@sm.com",
+                "mobile": "+63 918 111 2222"
+            }
+        },
+        {
+            "user_id": "PH-022",
+            "full_name": "Juan Luna",
+            "demographics": {
+                "age": 33,
+                "gender": "Male",
+                "civil_status": "Single",
+                "location": {
+                    "city": "Badoc",
+                    "province": "Ilocos Norte",
+                    "region": "Region I"
+                }
+            },
+            "employment_status": "Employed",
+            "resume": {
+                "current_job_title": "Art Director",
+                "experience": [
+                    {
+                        "title": "Art Director",
+                        "company": "Graphika Manila",
+                        "duration": "2020 - Present",
+                        "responsibilities": [
+                            "Visual branding",
+                            "Creative direction",
+                            "Campaign aesthetics"
+                        ]
+                    }
+                ],
+                "total_years_experience": 10,
+                "skills": {
+                    "technical": [
+                        "Painting",
+                        "Digital Art",
+                        "Creative Suite"
+                    ],
+                    "non_technical": [
+                        "Visionary",
+                        "Passion",
+                        "Aesthetic Judgement"
+                    ]
+                },
+                "education": {
+                    "degree": "B.F.A. Painting",
+                    "institution": "UP Diliman"
+                }
+            },
+            "interests": [
+                "Painting",
+                "Fencing",
+                "Political Activism"
+            ],
+            "contact_information": {
+                "email": "jluna@art-ph.org",
+                "mobile": "+63 926 444 5555"
+            }
+        },
+        {
+            "user_id": "PH-023",
+            "full_name": "Josefa Llanes Escoda",
+            "demographics": {
+                "age": 35,
+                "gender": "Female",
+                "civil_status": "Married",
+                "location": {
+                    "city": "Dingras",
+                    "province": "Ilocos Norte",
+                    "region": "Region I"
+                }
+            },
+            "employment_status": "Employed",
+            "resume": {
+                "current_job_title": "Social Worker",
+                "experience": [
+                    {
+                        "title": "Senior Social Worker",
+                        "company": "DSWD",
+                        "duration": "2015 - Present",
+                        "responsibilities": [
+                            "Community outreach",
+                            "Disaster relief",
+                            "Child protection"
+                        ]
+                    }
+                ],
+                "total_years_experience": 12,
+                "skills": {
+                    "technical": [
+                        "Case Mgmt",
+                        "Grant Writing",
+                        "Policy Knowledge"
+                    ],
+                    "non_technical": [
+                        "Altruism",
+                        "Courage",
+                        "Networking"
+                    ]
+                },
+                "education": {
+                    "degree": "B.S. Social Work",
+                    "institution": "Philippine Women's University"
+                }
+            },
+            "interests": [
+                "Girl Scouting",
+                "Suffrage Advocacy",
+                "Community Organizing"
+            ],
+            "contact_information": {
+                "email": "josefa.escoda@dswd.ph",
+                "mobile": "+63 916 666 7777"
+            }
+        },
+        {
+            "user_id": "PH-024",
+            "full_name": "Apolinario Mabini",
+            "demographics": {
+                "age": 30,
+                "gender": "Male",
+                "civil_status": "Single",
+                "location": {
+                    "city": "Tanauan",
+                    "province": "Batangas",
+                    "region": "Region IV-A"
+                }
+            },
+            "employment_status": "Unemployed",
+            "resume": {
+                "current_job_title": null,
+                "experience": [
+                    {
+                        "title": "Legal Researcher",
+                        "company": "Supreme Court of PH",
+                        "duration": "2018 - 2023",
+                        "responsibilities": [
+                            "Drafting opinions",
+                            "Case law research",
+                            "Policy briefing"
+                        ]
+                    }
+                ],
+                "total_years_experience": 7,
+                "skills": {
+                    "technical": [
+                        "Legal Research",
+                        "Constitutional Law",
+                        "Drafting"
+                    ],
+                    "non_technical": [
+                        "Intellect",
+                        "Principled",
+                        "Strategic Analysis"
+                    ]
+                },
+                "education": {
+                    "degree": "LL.B.",
+                    "institution": "UST"
+                }
+            },
+            "interests": [
+                "Philosophy",
+                "Constitutionalism",
+                "Writing"
+            ],
+            "contact_information": {
+                "email": "apolinario.m@law.ph",
+                "mobile": "+63 905 111 2222"
+            }
+        },
+        {
+            "user_id": "PH-025",
+            "full_name": "Gabriela Silang",
+            "demographics": {
+                "age": 28,
+                "gender": "Female",
+                "civil_status": "Widowed",
+                "location": {
+                    "city": "Vigan City",
+                    "province": "Ilocos Sur",
+                    "region": "Region I"
+                }
+            },
+            "employment_status": "Employed",
+            "resume": {
+                "current_job_title": "Field Supervisor",
+                "experience": [
+                    {
+                        "title": "Field Supervisor",
+                        "company": "Ilocos Power Corp",
+                        "duration": "2021 - Present",
+                        "responsibilities": [
+                            "Team deployment",
+                            "Safety compliance",
+                            "Local community coordination"
+                        ]
+                    }
+                ],
+                "total_years_experience": 6,
+                "skills": {
+                    "technical": [
+                        "Operational Safety",
+                        "Resource Mgmt",
+                        "Local Gov coordination"
+                    ],
+                    "non_technical": [
+                        "Bravado",
+                        "Command",
+                        "Persistence"
+                    ]
+                },
+                "education": {
+                    "degree": "B.S. Management",
+                    "institution": "University of Northern Philippines"
+                }
+            },
+            "interests": [
+                "History",
+                "Leadership Training",
+                "Horseback Riding"
+            ],
+            "contact_information": {
+                "email": "gabriela.s@ilocos.ph",
+                "mobile": "+63 939 444 5555"
+            }
+        }
+    ]
+}

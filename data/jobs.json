@@ -1,0 +1,1764 @@
+{
+  "metadata": {
+    "country": "Philippines",
+    "total_job_postings": 50,
+    "total_applications": 75,
+    "industries_covered": ["IT", "BPO", "Finance", "Healthcare", "Education", "Retail", "Manufacturing", "Hospitality", "Logistics", "Real Estate"],
+    "locations_covered": ["Metro Manila", "Cebu", "Davao", "Cavite", "Laguna", "Batangas", "Pampanga", "Bulacan", "Iloilo", "Bacolod"],
+    "last_updated": "2024-10-25",
+    "data_version": "1.0"
+  },
+
+  "job_postings": [
+    {
+      "job_id": "JP001",
+      "position_title": "Full Stack Developer",
+      "company": "Accenture Philippines",
+      "industry": "IT",
+      "location": "Taguig City, Metro Manila",
+      "employment_type": "Full-time",
+      "work_setup": "Hybrid",
+      "salary_range": {
+        "min": 60000,
+        "max": 120000,
+        "currency": "PHP",
+        "period": "monthly"
+      },
+      "requirements": {
+        "education": "Bachelor's degree in Computer Science, IT, or related field",
+        "years_experience": 3,
+        "skills": ["JavaScript", "React", "Node.js", "Python", "MongoDB", "AWS"],
+        "certifications": ["AWS Certified Developer preferred"],
+        "language_requirements": ["English", "Filipino"]
+      },
+      "benefits": {
+        "mandatory": ["SSS", "PhilHealth", "Pag-IBIG", "13th month pay"],
+        "additional": ["HMO with 2 dependents", "20 paid leaves", "Performance bonus", "Internet allowance"]
+      },
+      "application_details": {
+        "deadline": "2024-12-15",
+        "channels": ["Online portal", "Email"],
+        "documents_required": ["Resume", "Application Letter", "TOR", "COE"]
+      },
+      "job_description": "Develop and maintain web applications using modern frameworks...",
+      "posted_date": "2024-10-15",
+      "urgent_hire": false,
+      "vacancy_count": 5
+    },
+    {
+      "job_id": "JP002",
+      "position_title": "Customer Service Representative",
+      "company": "Concentrix",
+      "industry": "BPO",
+      "location": "Cebu IT Park, Cebu City",
+      "employment_type": "Full-time",
+      "work_setup": "On-site",
+      "salary_range": {
+        "min": 22000,
+        "max": 32000,
+        "currency": "PHP",
+        "period": "monthly"
+      },
+      "requirements": {
+        "education": "At least Senior High School graduate",
+        "years_experience": 0,
+        "skills": ["Communication skills", "Computer literacy", "Problem-solving"],
+        "certifications": [],
+        "language_requirements": ["English"]
+      },
+      "benefits": {
+        "mandatory": ["SSS", "PhilHealth", "Pag-IBIG", "13th month pay"],
+        "additional": ["HMO", "Night differential pay", "Paid training", "Perfect attendance bonus"]
+      },
+      "application_details": {
+        "deadline": "2024-11-30",
+        "channels": ["Walk-in", "Online"],
+        "documents_required": ["Resume", "Application Form"]
+      },
+      "job_description": "Handle customer inquiries for US-based retail client...",
+      "posted_date": "2024-10-20",
+      "urgent_hire": true,
+      "vacancy_count": 25
+    },
+    {
+      "job_id": "JP003",
+      "position_title": "CPA - Senior Accountant",
+      "company": "PwC Philippines",
+      "industry": "Finance",
+      "location": "Makati City, Metro Manila",
+      "employment_type": "Full-time",
+      "work_setup": "Hybrid",
+      "salary_range": {
+        "min": 70000,
+        "max": 110000,
+        "currency": "PHP",
+        "period": "monthly"
+      },
+      "requirements": {
+        "education": "Bachelor's degree in Accountancy, CPA license required",
+        "years_experience": 5,
+        "skills": ["Financial reporting", "Tax compliance", "Excel", "SAP", "IFRS"],
+        "certifications": ["CPA Philippines"],
+        "language_requirements": ["English", "Filipino"]
+      },
+      "benefits": {
+        "mandatory": ["SSS", "PhilHealth", "Pag-IBIG", "13th month pay"],
+        "additional": ["HMO with dependents", "Retirement plan", "Performance bonus", "Professional development fund"]
+      },
+      "application_details": {
+        "deadline": "2024-12-20",
+        "channels": ["Company website"],
+        "documents_required": ["Resume", "TOR", "PRC ID", "COE"]
+      },
+      "job_description": "Manage financial records for multinational clients...",
+      "posted_date": "2024-10-18",
+      "urgent_hire": false,
+      "vacancy_count": 3
+    },
+    {
+      "job_id": "JP004",
+      "position_title": "Registered Nurse",
+      "company": "St. Luke's Medical Center",
+      "industry": "Healthcare",
+      "location": "Quezon City, Metro Manila",
+      "employment_type": "Full-time",
+      "work_setup": "On-site",
+      "salary_range": {
+        "min": 28000,
+        "max": 40000,
+        "currency": "PHP",
+        "period": "monthly"
+      },
+      "requirements": {
+        "education": "BS Nursing, PRC License required",
+        "years_experience": 1,
+        "skills": ["Patient care", "Clinical skills", "Emergency response"],
+        "certifications": ["BLS", "ACLS preferred"],
+        "language_requirements": ["English", "Filipino"]
+      },
+      "benefits": {
+        "mandatory": ["SSS", "PhilHealth", "Pag-IBIG", "13th month pay"],
+        "additional": ["HMO", "Shift differential", "Uniform allowance", "Continuing education"]
+      },
+      "application_details": {
+        "deadline": "2024-11-15",
+        "channels": ["Email", "Walk-in"],
+        "documents_required": ["Resume", "PRC ID", "TOR", "Board Rating"]
+      },
+      "job_description": "Provide nursing care in medical-surgical ward...",
+      "posted_date": "2024-10-22",
+      "urgent_hire": true,
+      "vacancy_count": 15
+    },
+    {
+      "job_id": "JP005",
+      "position_title": "Senior High School Teacher",
+      "company": "Ateneo de Manila University",
+      "industry": "Education",
+      "location": "Quezon City, Metro Manila",
+      "employment_type": "Full-time",
+      "work_setup": "On-site",
+      "salary_range": {
+        "min": 35000,
+        "max": 50000,
+        "currency": "PHP",
+        "period": "monthly"
+      },
+      "requirements": {
+        "education": "Master's degree in Education or related field",
+        "years_experience": 3,
+        "skills": ["Teaching", "Curriculum development", "Classroom management"],
+        "certifications": ["Licensed Professional Teacher"],
+        "language_requirements": ["English", "Filipino"]
+      },
+      "benefits": {
+        "mandatory": ["SSS", "PhilHealth", "Pag-IBIG", "13th month pay"],
+        "additional": ["HMO", "Tuition discount", "Summer break", "Research grant"]
+      },
+      "application_details": {
+        "deadline": "2024-11-30",
+        "channels": ["Online portal"],
+        "documents_required": ["Resume", "TOR", "PRC ID", "Teaching demo video"]
+      },
+      "job_description": "Teach senior high school STEM subjects...",
+      "posted_date": "2024-10-19",
+      "urgent_hire": false,
+      "vacancy_count": 8
+    },
+    {
+      "job_id": "JP006",
+      "position_title": "Sales Associate",
+      "company": "SM Supermalls",
+      "industry": "Retail",
+      "location": "SM Megamall, Mandaluyong",
+      "employment_type": "Full-time",
+      "work_setup": "On-site",
+      "salary_range": {
+        "min": 16000,
+        "max": 22000,
+        "currency": "PHP",
+        "period": "monthly"
+      },
+      "requirements": {
+        "education": "High School graduate",
+        "years_experience": 0,
+        "skills": ["Sales", "Customer service", "Inventory management"],
+        "certifications": [],
+        "language_requirements": ["Filipino", "English"]
+      },
+      "benefits": {
+        "mandatory": ["SSS", "PhilHealth", "Pag-IBIG", "13th month pay"],
+        "additional": ["Sales commission", "Employee discount", "Perfect attendance bonus"]
+      },
+      "application_details": {
+        "deadline": "2024-11-10",
+        "channels": ["Walk-in", "Online"],
+        "documents_required": ["Resume", "NBI Clearance"]
+      },
+      "job_description": "Assist customers and manage store inventory...",
+      "posted_date": "2024-10-23",
+      "urgent_hire": true,
+      "vacancy_count": 50
+    },
+    {
+      "job_id": "JP007",
+      "position_title": "Production Supervisor",
+      "company": "Nestlé Philippines",
+      "industry": "Manufacturing",
+      "location": "Laguna Technopark, Laguna",
+      "employment_type": "Full-time",
+      "work_setup": "On-site",
+      "salary_range": {
+        "min": 45000,
+        "max": 65000,
+        "currency": "PHP",
+        "period": "monthly"
+      },
+      "requirements": {
+        "education": "Bachelor's degree in Engineering or related field",
+        "years_experience": 5,
+        "skills": ["Production management", "Quality control", "Lean manufacturing"],
+        "certifications": [],
+        "language_requirements": ["English", "Filipino"]
+      },
+      "benefits": {
+        "mandatory": ["SSS", "PhilHealth", "Pag-IBIG", "13th month pay"],
+        "additional": ["HMO", "Performance bonus", "Rice allowance", "Transportation service"]
+      },
+      "application_details": {
+        "deadline": "2024-12-05",
+        "channels": ["Company website"],
+        "documents_required": ["Resume", "TOR", "COE"]
+      },
+      "job_description": "Supervise production line in food manufacturing plant...",
+      "posted_date": "2024-10-21",
+      "urgent_hire": false,
+      "vacancy_count": 4
+    },
+    {
+      "job_id": "JP008",
+      "position_title": "Front Desk Agent",
+      "company": "Shangri-La Hotel",
+      "industry": "Hospitality",
+      "location": "Makati City, Metro Manila",
+      "employment_type": "Full-time",
+      "work_setup": "On-site",
+      "salary_range": {
+        "min": 20000,
+        "max": 28000,
+        "currency": "PHP",
+        "period": "monthly"
+      },
+      "requirements": {
+        "education": "Bachelor's degree in Hospitality or related field",
+        "years_experience": 1,
+        "skills": ["Customer service", "Reservation systems", "Multitasking"],
+        "certifications": [],
+        "language_requirements": ["English", "Filipino", "Mandarin preferred"]
+      },
+      "benefits": {
+        "mandatory": ["SSS", "PhilHealth", "Pag-IBIG", "13th month pay"],
+        "additional": ["HMO", "Service charge", "Meal allowance", "Hotel discounts"]
+      },
+      "application_details": {
+        "deadline": "2024-11-20",
+        "channels": ["Email", "Walk-in"],
+        "documents_required": ["Resume", "TOR", "NBI Clearance"]
+      },
+      "job_description": "Handle guest check-in/out and reservations...",
+      "posted_date": "2024-10-24",
+      "urgent_hire": true,
+      "vacancy_count": 10
+    },
+    {
+      "job_id": "JP009",
+      "position_title": "Logistics Coordinator",
+      "company": "LBC Express",
+      "industry": "Logistics",
+      "location": "Pasay City, Metro Manila",
+      "employment_type": "Full-time",
+      "work_setup": "On-site",
+      "salary_range": {
+        "min": 25000,
+        "max": 35000,
+        "currency": "PHP",
+        "period": "monthly"
+      },
+      "requirements": {
+        "education": "Bachelor's degree in Business or related field",
+        "years_experience": 2,
+        "skills": ["Logistics", "Supply chain", "Inventory management"],
+        "certifications": [],
+        "language_requirements": ["English", "Filipino"]
+      },
+      "benefits": {
+        "mandatory": ["SSS", "PhilHealth", "Pag-IBIG", "13th month pay"],
+        "additional": ["HMO", "Transportation allowance", "Rice subsidy", "Performance bonus"]
+      },
+      "application_details": {
+        "deadline": "2024-12-10",
+        "channels": ["Online", "Email"],
+        "documents_required": ["Resume", "TOR", "COE"]
+      },
+      "job_description": "Coordinate shipments and track deliveries nationwide...",
+      "posted_date": "2024-10-25",
+      "urgent_hire": false,
+      "vacancy_count": 7
+    },
+    {
+      "job_id": "JP010",
+      "position_title": "Real Estate Broker",
+      "company": "Megaworld Corporation",
+      "industry": "Real Estate",
+      "location": "Bonifacio Global City, Taguig",
+      "employment_type": "Commission-based",
+      "work_setup": "Hybrid",
+      "salary_range": {
+        "min": 0,
+        "max": 0,
+        "currency": "PHP",
+        "period": "commission"
+      },
+      "requirements": {
+        "education": "Bachelor's degree in any field",
+        "years_experience": 2,
+        "skills": ["Sales", "Negotiation", "Property knowledge"],
+        "certifications": ["PRC Real Estate Broker License"],
+        "language_requirements": ["English", "Filipino"]
+      },
+      "benefits": {
+        "mandatory": ["SSS", "PhilHealth", "Pag-IBIG"],
+        "additional": ["High commission rate", "Sales incentives", "Car plan", "Marketing support"]
+      },
+      "application_details": {
+        "deadline": "2024-12-31",
+        "channels": ["Walk-in", "Email"],
+        "documents_required": ["Resume", "PRC ID", "Sales portfolio"]
+      },
+      "job_description": "Sell condominium units in premium developments...",
+      "posted_date": "2024-10-20",
+      "urgent_hire": true,
+      "vacancy_count": 20
+    },
+    {
+      "job_id": "JP011",
+      "position_title": "Data Analyst",
+      "company": "Shopee Philippines",
+      "industry": "E-commerce",
+      "location": "Ortigas Center, Pasig City",
+      "employment_type": "Full-time",
+      "work_setup": "Remote",
+      "salary_range": {
+        "min": 50000,
+        "max": 80000,
+        "currency": "PHP",
+        "period": "monthly"
+      },
+      "requirements": {
+        "education": "Bachelor's degree in Statistics, Math, or related field",
+        "years_experience": 2,
+        "skills": ["SQL", "Python", "Tableau", "Excel", "Data visualization"],
+        "certifications": [],
+        "language_requirements": ["English"]
+      },
+      "benefits": {
+        "mandatory": ["SSS", "PhilHealth", "Pag-IBIG", "13th month pay"],
+        "additional": ["HMO", "Stock options", "Internet allowance", "Flexible hours"]
+      },
+      "application_details": {
+        "deadline": "2024-11-30",
+        "channels": ["Company website"],
+        "documents_required": ["Resume", "Portfolio", "TOR"]
+      },
+      "job_description": "Analyze e-commerce data to drive business decisions...",
+      "posted_date": "2024-10-22",
+      "urgent_hire": false,
+      "vacancy_count": 6
+    },
+    {
+      "job_id": "JP012",
+      "position_title": "Content Writer",
+      "company": "ABS-CBN Digital",
+      "industry": "Media",
+      "location": "Quezon City, Metro Manila",
+      "employment_type": "Full-time",
+      "work_setup": "Hybrid",
+      "salary_range": {
+        "min": 30000,
+        "max": 45000,
+        "currency": "PHP",
+        "period": "monthly"
+      },
+      "requirements": {
+        "education": "Bachelor's degree in Journalism, Communications, or related field",
+        "years_experience": 2,
+        "skills": ["Writing", "SEO", "Social media", "Content management systems"],
+        "certifications": [],
+        "language_requirements": ["English", "Filipino"]
+      },
+      "benefits": {
+        "mandatory": ["SSS", "PhilHealth", "Pag-IBIG", "13th month pay"],
+        "additional": ["HMO", "Creative allowance", "Media passes", "Training opportunities"]
+      },
+      "application_details": {
+        "deadline": "2024-11-25",
+        "channels": ["Email"],
+        "documents_required": ["Resume", "Writing samples", "TOR"]
+      },
+      "job_description": "Write articles for news website and social media...",
+      "posted_date": "2024-10-23",
+      "urgent_hire": true,
+      "vacancy_count": 5
+    },
+    {
+      "job_id": "JP013",
+      "position_title": "HR Generalist",
+      "company": "Jollibee Foods Corporation",
+      "industry": "Food Service",
+      "location": "Ortigas, Pasig City",
+      "employment_type": "Full-time",
+      "work_setup": "On-site",
+      "salary_range": {
+        "min": 35000,
+        "max": 50000,
+        "currency": "PHP",
+        "period": "monthly"
+      },
+      "requirements": {
+        "education": "Bachelor's degree in Psychology, HR, or related field",
+        "years_experience": 3,
+        "skills": ["Recruitment", "Employee relations", "Labor laws", "HRIS"],
+        "certifications": [],
+        "language_requirements": ["English", "Filipino"]
+      },
+      "benefits": {
+        "mandatory": ["SSS", "PhilHealth", "Pag-IBIG", "13th month pay"],
+        "additional": ["HMO", "Jollibee discounts", "Transportation allowance", "Performance bonus"]
+      },
+      "application_details": {
+        "deadline": "2024-12-05",
+        "channels": ["Company portal"],
+        "documents_required": ["Resume", "TOR", "COE"]
+      },
+      "job_description": "Handle recruitment and employee relations for corporate office...",
+      "posted_date": "2024-10-21",
+      "urgent_hire": false,
+      "vacancy_count": 3
+    },
+    {
+      "job_id": "JP014",
+      "position_title": "Call Center Agent",
+      "company": "Teleperformance",
+      "industry": "BPO",
+      "location": "Davao City",
+      "employment_type": "Full-time",
+      "work_setup": "On-site",
+      "salary_range": {
+        "min": 20000,
+        "max": 28000,
+        "currency": "PHP",
+        "period": "monthly"
+      },
+      "requirements": {
+        "education": "At least 2 years in college",
+        "years_experience": 0,
+        "skills": ["Communication", "Active listening", "Computer skills"],
+        "certifications": [],
+        "language_requirements": ["English"]
+      },
+      "benefits": {
+        "mandatory": ["SSS", "PhilHealth", "Pag-IBIG", "13th month pay"],
+        "additional": ["HMO", "Night differential", "Paid training", "Free shuttle"]
+      },
+      "application_details": {
+        "deadline": "2024-11-15",
+        "channels": ["Walk-in", "Online"],
+        "documents_required": ["Resume", "Application form"]
+      },
+      "job_description": "Handle inbound calls for US telecom client...",
+      "posted_date": "2024-10-24",
+      "urgent_hire": true,
+      "vacancy_count": 100
+    },
+    {
+      "job_id": "JP015",
+      "position_title": "Graphic Designer",
+      "company": "Manila Bulletin Publishing",
+      "industry": "Media",
+      "location": "Intramuros, Manila",
+      "employment_type": "Full-time",
+      "work_setup": "On-site",
+      "salary_range": {
+        "min": 25000,
+        "max": 40000,
+        "currency": "PHP",
+        "period": "monthly"
+      },
+      "requirements": {
+        "education": "Bachelor's degree in Fine Arts, Design, or related field",
+        "years_experience": 2,
+        "skills": ["Adobe Creative Suite", "Layout design", "Typography", "Print design"],
+        "certifications": [],
+        "language_requirements": ["English", "Filipino"]
+      },
+      "benefits": {
+        "mandatory": ["SSS", "PhilHealth", "Pag-IBIG", "13th month pay"],
+        "additional": ["HMO", "Creative software allowance", "Media industry exposure"]
+      },
+      "application_details": {
+        "deadline": "2024-11-20",
+        "channels": ["Email"],
+        "documents_required": ["Resume", "Portfolio", "TOR"]
+      },
+      "job_description": "Create newspaper layouts and advertisements...",
+      "posted_date": "2024-10-25",
+      "urgent_hire": false,
+      "vacancy_count": 4
+    },
+    {
+      "job_id": "JP016",
+      "position_title": "Civil Engineer",
+      "company": "DMCI Homes",
+      "industry": "Construction",
+      "location": "Makati City, Metro Manila",
+      "employment_type": "Full-time",
+      "work_setup": "On-site",
+      "salary_range": {
+        "min": 40000,
+        "max": 60000,
+        "currency": "PHP",
+        "period": "monthly"
+      },
+      "requirements": {
+        "education": "Bachelor's degree in Civil Engineering",
+        "years_experience": 3,
+        "skills": ["AutoCAD", "Project management", "Construction supervision"],
+        "certifications": ["PRC Civil Engineer License"],
+        "language_requirements": ["English", "Filipino"]
+      },
+      "benefits": {
+        "mandatory": ["SSS", "PhilHealth", "Pag-IBIG", "13th month pay"],
+        "additional": ["HMO", "Site allowance", "Transportation", "Project completion bonus"]
+      },
+      "application_details": {
+        "deadline": "2024-12-15",
+        "channels": ["Company website"],
+        "documents_required": ["Resume", "PRC ID", "TOR", "COE"]
+      },
+      "job_description": "Supervise residential construction projects...",
+      "posted_date": "2024-10-20",
+      "urgent_hire": true,
+      "vacancy_count": 8
+    },
+    {
+      "job_id": "JP017",
+      "position_title": "Pharmacist",
+      "company": "Mercury Drug",
+      "industry": "Healthcare",
+      "location": "Multiple locations, Metro Manila",
+      "employment_type": "Full-time",
+      "work_setup": "On-site",
+      "salary_range": {
+        "min": 30000,
+        "max": 45000,
+        "currency": "PHP",
+        "period": "monthly"
+      },
+      "requirements": {
+        "education": "BS Pharmacy, PRC License required",
+        "years_experience": 1,
+        "skills": ["Pharmacy operations", "Inventory management", "Customer service"],
+        "certifications": ["PRC Pharmacist License"],
+        "language_requirements": ["English", "Filipino"]
+      },
+      "benefits": {
+        "mandatory": ["SSS", "PhilHealth", "Pag-IBIG", "13th month pay"],
+        "additional": ["HMO", "Shift differential", "Employee discount", "Perfect attendance bonus"]
+      },
+      "application_details": {
+        "deadline": "2024-11-30",
+        "channels": ["Walk-in", "Email"],
+        "documents_required": ["Resume", "PRC ID", "TOR", "Board Rating"]
+      },
+      "job_description": "Manage pharmacy branch operations...",
+      "posted_date": "2024-10-22",
+      "urgent_hire": true,
+      "vacancy_count": 30
+    },
+    {
+      "job_id": "JP018",
+      "position_title": "Digital Marketing Specialist",
+      "company": "Lazada Philippines",
+      "industry": "E-commerce",
+      "location": "Bonifacio Global City, Taguig",
+      "employment_type": "Full-time",
+      "work_setup": "Hybrid",
+      "salary_range": {
+        "min": 40000,
+        "max": 60000,
+        "currency": "PHP",
+        "period": "monthly"
+      },
+      "requirements": {
+        "education": "Bachelor's degree in Marketing, Business, or related field",
+        "years_experience": 3,
+        "skills": ["Google Ads", "Facebook Ads", "SEO", "Analytics", "Content creation"],
+        "certifications": ["Google Analytics Certified preferred"],
+        "language_requirements": ["English"]
+      },
+      "benefits": {
+        "mandatory": ["SSS", "PhilHealth", "Pag-IBIG", "13th month pay"],
+        "additional": ["HMO", "Performance bonus", "Internet allowance", "Employee discounts"]
+      },
+      "application_details": {
+        "deadline": "2024-11-25",
+        "channels": ["Company portal"],
+        "documents_required": ["Resume", "Portfolio", "TOR"]
+      },
+      "job_description": "Manage digital campaigns for e-commerce platform...",
+      "posted_date": "2024-10-23",
+      "urgent_hire": false,
+      "vacancy_count": 5
+    },
+    {
+      "job_id": "JP019",
+      "position_title": "Quality Assurance Tester",
+      "company": "Ubisoft Philippines",
+      "industry": "Gaming",
+      "location": "Cebu City",
+      "employment_type": "Full-time",
+      "work_setup": "On-site",
+      "salary_range": {
+        "min": 30000,
+        "max": 45000,
+        "currency": "PHP",
+        "period": "monthly"
+      },
+      "requirements": {
+        "education": "Bachelor's degree in Computer Science or related field",
+        "years_experience": 1,
+        "skills": ["Game testing", "Bug reporting", "Test cases", "JIRA"],
+        "certifications": [],
+        "language_requirements": ["English"]
+      },
+      "benefits": {
+        "mandatory": ["SSS", "PhilHealth", "Pag-IBIG", "13th month pay"],
+        "additional": ["HMO", "Game allowances", "Flexible hours", "Creative work environment"]
+      },
+      "application_details": {
+        "deadline": "2024-12-10",
+        "channels": ["Company website"],
+        "documents_required": ["Resume", "Cover letter", "TOR"]
+      },
+      "job_description": "Test video games for bugs and quality issues...",
+      "posted_date": "2024-10-24",
+      "urgent_hire": true,
+      "vacancy_count": 12
+    },
+    {
+      "job_id": "JP020",
+      "position_title": "Flight Attendant",
+      "company": "Philippine Airlines",
+      "industry": "Aviation",
+      "location": "Ninoy Aquino International Airport, Pasay",
+      "employment_type": "Full-time",
+      "work_setup": "On-site",
+      "salary_range": {
+        "min": 50000,
+        "max": 80000,
+        "currency": "PHP",
+        "period": "monthly"
+      },
+      "requirements": {
+        "education": "Bachelor's degree in any field",
+        "years_experience": 0,
+        "skills": ["Customer service", "Safety procedures", "Emergency response"],
+        "certifications": [],
+        "language_requirements": ["English", "Filipino", "Additional language preferred"]
+      },
+      "benefits": {
+        "mandatory": ["SSS", "PhilHealth", "Pag-IBIG", "13th month pay"],
+        "additional": ["HMO", "Flight benefits", "Layover allowances", "Uniform allowance"]
+      },
+      "application_details": {
+        "deadline": "2024-11-15",
+        "channels": ["Walk-in audition"],
+        "documents_required": ["Resume", "Full-body photo", "TOR"]
+      },
+      "job_description": "Ensure passenger safety and comfort on international flights...",
+      "posted_date": "2024-10-21",
+      "urgent_hire": false,
+      "vacancy_count": 25
+    },
+    {
+      "job_id": "JP021",
+      "position_title": "Social Media Manager",
+      "company": "Globe Telecom",
+      "industry": "Telecommunications",
+      "location": "Bonifacio Global City, Taguig",
+      "employment_type": "Full-time",
+      "work_setup": "Hybrid",
+      "salary_range": {
+        "min": 45000,
+        "max": 65000,
+        "currency": "PHP",
+        "period": "monthly"
+      },
+      "requirements": {
+        "education": "Bachelor's degree in Marketing, Communications, or related field",
+        "years_experience": 4,
+        "skills": ["Social media strategy", "Content creation", "Community management", "Analytics"],
+        "certifications": [],
+        "language_requirements": ["English", "Filipino"]
+      },
+      "benefits": {
+        "mandatory": ["SSS", "PhilHealth", "Pag-IBIG", "13th month pay"],
+        "additional": ["HMO", "Phone plan", "Internet allowance", "Performance bonus"]
+      },
+      "application_details": {
+        "deadline": "2024-12-01",
+        "channels": ["Company portal"],
+        "documents_required": ["Resume", "Portfolio", "TOR"]
+      },
+      "job_description": "Manage social media presence for telecom brand...",
+      "posted_date": "2024-10-25",
+      "urgent_hire": false,
+      "vacancy_count": 3
+    },
+    {
+      "job_id": "JP022",
+      "position_title": "Mechanical Engineer",
+      "company": "San Miguel Corporation",
+      "industry": "Manufacturing",
+      "location": "Mandaluyong City, Metro Manila",
+      "employment_type": "Full-time",
+      "work_setup": "On-site",
+      "salary_range": {
+        "min": 35000,
+        "max": 55000,
+        "currency": "PHP",
+        "period": "monthly"
+      },
+      "requirements": {
+        "education": "Bachelor's degree in Mechanical Engineering",
+        "years_experience": 2,
+        "skills": ["AutoCAD", "Equipment maintenance", "Process improvement"],
+        "certifications": ["PRC Mechanical Engineer License"],
+        "language_requirements": ["English", "Filipino"]
+      },
+      "benefits": {
+        "mandatory": ["SSS", "PhilHealth", "Pag-IBIG", "13th month pay"],
+        "additional": ["HMO", "Rice subsidy", "Transportation", "Company products allowance"]
+      },
+      "application_details": {
+        "deadline": "2024-12-20",
+        "channels": ["Email", "Walk-in"],
+        "documents_required": ["Resume", "PRC ID", "TOR", "COE"]
+      },
+      "job_description": "Maintain and improve manufacturing equipment...",
+      "posted_date": "2024-10-22",
+      "urgent_hire": true,
+      "vacancy_count": 6
+    },
+    {
+      "job_id": "JP023",
+      "position_title": "Bank Teller",
+      "company": "BDO Unibank",
+      "industry": "Banking",
+      "location": "Multiple branches, Metro Manila",
+      "employment_type": "Full-time",
+      "work_setup": "On-site",
+      "salary_range": {
+        "min": 18000,
+        "max": 25000,
+        "currency": "PHP",
+        "period": "monthly"
+      },
+      "requirements": {
+        "education": "Bachelor's degree in Business, Finance, or related field",
+        "years_experience": 0,
+        "skills": ["Cash handling", "Customer service", "Attention to detail"],
+        "certifications": [],
+        "language_requirements": ["English", "Filipino"]
+      },
+      "benefits": {
+        "mandatory": ["SSS", "PhilHealth", "Pag-IBIG", "13th month pay"],
+        "additional": ["HMO", "Rice allowance", "Performance bonus", "Banking benefits"]
+      },
+      "application_details": {
+        "deadline": "2024-11-30",
+        "channels": ["Online", "Walk-in"],
+        "documents_required": ["Resume", "TOR", "NBI Clearance"]
+      },
+      "job_description": "Handle cash transactions and customer service at bank branch...",
+      "posted_date": "2024-10-23",
+      "urgent_hire": true,
+      "vacancy_count": 40
+    },
+    {
+      "job_id": "JP024",
+      "position_title": "Research Analyst",
+      "company": "Colliers Philippines",
+      "industry": "Real Estate",
+      "location": "Makati City, Metro Manila",
+      "employment_type": "Full-time",
+      "work_setup": "Hybrid",
+      "salary_range": {
+        "min": 40000,
+        "max": 60000,
+        "currency": "PHP",
+        "period": "monthly"
+      },
+      "requirements": {
+        "education": "Bachelor's degree in Economics, Statistics, or related field",
+        "years_experience": 2,
+        "skills": ["Market research", "Data analysis", "Report writing", "Excel"],
+        "certifications": [],
+        "language_requirements": ["English", "Filipino"]
+      },
+      "benefits": {
+        "mandatory": ["SSS", "PhilHealth", "Pag-IBIG", "13th month pay"],
+        "additional": ["HMO", "Research allowance", "Flexible hours", "Professional development"]
+      },
+      "application_details": {
+        "deadline": "2024-12-10",
+        "channels": ["Company website"],
+        "documents_required": ["Resume", "Writing sample", "TOR"]
+      },
+      "job_description": "Conduct real estate market research and analysis...",
+      "posted_date": "2024-10-24",
+      "urgent_hire": false,
+      "vacancy_count": 3
+    },
+    {
+  "job_id": "JP025",
+  "position_title": "IT Support Specialist",
+  "company": "Ayala Corporation",
+  "industry": "IT",
+  "location": "Makati City, Metro Manila",
+  "employment_type": "Full-time",
+  "work_setup": "On-site",
+  "salary_range": {
+    "min": 30000,
+    "max": 45000,
+    "currency": "PHP",
+    "period": "monthly"
+  },
+  "requirements": {
+    "education": "Bachelor's degree in IT, Computer Science, or related field",
+    "years_experience": 2,
+    "skills": ["Hardware troubleshooting", "Network support", "Windows/Mac OS", "Helpdesk"],
+    "certifications": ["CompTIA A+ preferred"],
+    "language_requirements": ["English", "Filipino"]
+  },
+  "benefits": {
+    "mandatory": ["SSS", "PhilHealth", "Pag-IBIG", "13th month pay"],
+    "additional": ["HMO", "Transportation allowance", "IT certification reimbursement", "Performance bonus"]
+  },
+  "application_details": {
+    "deadline": "2024-12-15",
+    "channels": ["Company portal"],
+    "documents_required": ["Resume", "TOR", "Certifications"]
+  },
+  "job_description": "Provide technical support to corporate employees...",
+  "posted_date": "2024-10-25",
+  "urgent_hire": true,
+  "vacancy_count": 8
+},
+{
+  "job_id": "JP026",
+  "position_title": "Sales Manager",
+  "company": "Procter & Gamble Philippines",
+  "industry": "FMCG",
+  "location": "Laguna",
+  "employment_type": "Full-time",
+  "work_setup": "Field",
+  "salary_range": {
+    "min": 60000,
+    "max": 100000,
+    "currency": "PHP",
+    "period": "monthly"
+  },
+  "requirements": {
+    "education": "Bachelor's degree in Business, Marketing, or related field",
+    "years_experience": 5,
+    "skills": ["Sales strategy", "Team management", "Key account management", "Negotiation"],
+    "certifications": [],
+    "language_requirements": ["English", "Filipino"]
+  },
+  "benefits": {
+    "mandatory": ["SSS", "PhilHealth", "Pag-IBIG", "13th month pay"],
+    "additional": ["HMO with family", "Car plan", "Sales commission", "Stock options"]
+  },
+  "application_details": {
+    "deadline": "2024-12-05",
+    "channels": ["Company website"],
+    "documents_required": ["Resume", "Sales achievements", "TOR", "COE"]
+  },
+  "job_description": "Lead sales team for FMCG products in Luzon region...",
+  "posted_date": "2024-10-22",
+  "urgent_hire": false,
+  "vacancy_count": 2
+},
+{
+  "job_id": "JP027",
+  "position_title": "Architect",
+  "company": "ASYA Design",
+  "industry": "Architecture",
+  "location": "Quezon City, Metro Manila",
+  "employment_type": "Full-time",
+  "work_setup": "Hybrid",
+  "salary_range": {
+    "min": 40000,
+    "max": 70000,
+    "currency": "PHP",
+    "period": "monthly"
+  },
+  "requirements": {
+    "education": "Bachelor's degree in Architecture",
+    "years_experience": 4,
+    "skills": ["AutoCAD", "SketchUp", "Revit", "3D rendering", "Building codes"],
+    "certifications": ["PRC Architect License"],
+    "language_requirements": ["English", "Filipino"]
+  },
+  "benefits": {
+    "mandatory": ["SSS", "PhilHealth", "Pag-IBIG", "13th month pay"],
+    "additional": ["HMO", "Software allowance", "Creative freedom", "Project bonuses"]
+  },
+  "application_details": {
+    "deadline": "2024-12-20",
+    "channels": ["Email", "Portfolio submission"],
+    "documents_required": ["Resume", "PRC ID", "Portfolio", "TOR"]
+  },
+  "job_description": "Design residential and commercial buildings...",
+  "posted_date": "2024-10-24",
+  "urgent_hire": false,
+  "vacancy_count": 3
+},
+{
+  "job_id": "JP028",
+  "position_title": "Event Coordinator",
+  "company": "SMDC",
+  "industry": "Real Estate",
+  "location": "Makati City, Metro Manila",
+  "employment_type": "Full-time",
+  "work_setup": "On-site",
+  "salary_range": {
+    "min": 25000,
+    "max": 40000,
+    "currency": "PHP",
+    "period": "monthly"
+  },
+  "requirements": {
+    "education": "Bachelor's degree in Marketing, Events Management, or related field",
+    "years_experience": 2,
+    "skills": ["Event planning", "Vendor management", "Budgeting", "Logistics"],
+    "certifications": [],
+    "language_requirements": ["English", "Filipino"]
+  },
+  "benefits": {
+    "mandatory": ["SSS", "PhilHealth", "Pag-IBIG", "13th month pay"],
+    "additional": ["HMO", "Transportation allowance", "Event bonuses", "Weekend differential"]
+  },
+  "application_details": {
+    "deadline": "2024-11-25",
+    "channels": ["Email"],
+    "documents_required": ["Resume", "Event portfolio", "TOR"]
+  },
+  "job_description": "Coordinate property launch events and client gatherings...",
+  "posted_date": "2024-10-23",
+  "urgent_hire": true,
+  "vacancy_count": 5
+},
+{
+  "job_id": "JP029",
+  "position_title": "Barista",
+  "company": "Starbucks Philippines",
+  "industry": "Food Service",
+  "location": "Multiple locations, Metro Manila",
+  "employment_type": "Full-time",
+  "work_setup": "On-site",
+  "salary_range": {
+    "min": 16000,
+    "max": 22000,
+    "currency": "PHP",
+    "period": "monthly"
+  },
+  "requirements": {
+    "education": "At least Senior High School graduate",
+    "years_experience": 0,
+    "skills": ["Customer service", "Coffee preparation", "Cash handling", "Teamwork"],
+    "certifications": [],
+    "language_requirements": ["English", "Filipino"]
+  },
+  "benefits": {
+    "mandatory": ["SSS", "PhilHealth", "Pag-IBIG", "13th month pay"],
+    "additional": ["HMO", "Free drinks", "Tip sharing", "Bean stock", "Career advancement"]
+  },
+  "application_details": {
+    "deadline": "2024-11-30",
+    "channels": ["Walk-in", "Online"],
+    "documents_required": ["Resume", "NBI Clearance"]
+  },
+  "job_description": "Prepare coffee beverages and provide excellent customer service...",
+  "posted_date": "2024-10-25",
+  "urgent_hire": true,
+  "vacancy_count": 50
+},
+{
+  "job_id": "JP030",
+  "position_title": "Content Moderator",
+  "company": "TikTok Philippines",
+  "industry": "Social Media",
+  "location": "Pasig City, Metro Manila",
+  "employment_type": "Full-time",
+  "work_setup": "On-site",
+  "salary_range": {
+    "min": 30000,
+    "max": 45000,
+    "currency": "PHP",
+    "period": "monthly"
+  },
+  "requirements": {
+    "education": "Bachelor's degree in any field",
+    "years_experience": 1,
+    "skills": ["Attention to detail", "Content review", "Policy adherence", "Cultural sensitivity"],
+    "certifications": [],
+    "language_requirements": ["English", "Filipino", "Other Philippine dialects"]
+  },
+  "benefits": {
+    "mandatory": ["SSS", "PhilHealth", "Pag-IBIG", "13th month pay"],
+    "additional": ["HMO with mental health support", "Wellness programs", "Internet allowance", "Flexible shifts"]
+  },
+  "application_details": {
+    "deadline": "2024-12-10",
+    "channels": ["Company website"],
+    "documents_required": ["Resume", "TOR"]
+  },
+  "job_description": "Review user-generated content for policy violations...",
+  "posted_date": "2024-10-22",
+  "urgent_hire": true,
+  "vacancy_count": 20
+},
+{
+  "job_id": "JP031",
+  "position_title": "Project Manager",
+  "company": "IBM Philippines",
+  "industry": "IT",
+  "location": "Eastwood City, Quezon City",
+  "employment_type": "Full-time",
+  "work_setup": "Hybrid",
+  "salary_range": {
+    "min": 80000,
+    "max": 150000,
+    "currency": "PHP",
+    "period": "monthly"
+  },
+  "requirements": {
+    "education": "Bachelor's degree in Computer Science, Business, or related field",
+    "years_experience": 7,
+    "skills": ["Project management", "Agile/Scrum", "Stakeholder management", "Budgeting"],
+    "certifications": ["PMP preferred"],
+    "language_requirements": ["English"]
+  },
+  "benefits": {
+    "mandatory": ["SSS", "PhilHealth", "Pag-IBIG", "13th month pay"],
+    "additional": ["HMO with family", "Stock options", "Car plan", "International training"]
+  },
+  "application_details": {
+    "deadline": "2024-12-31",
+    "channels": ["Company portal"],
+    "documents_required": ["Resume", "Certifications", "Project portfolio", "TOR"]
+  },
+  "job_description": "Lead IT implementation projects for enterprise clients...",
+  "posted_date": "2024-10-21",
+  "urgent_hire": false,
+  "vacancy_count": 2
+},
+{
+  "job_id": "JP032",
+  "position_title": "Medical Technologist",
+  "company": "Hi-Precision Diagnostics",
+  "industry": "Healthcare",
+  "location": "Multiple locations, Metro Manila",
+  "employment_type": "Full-time",
+  "work_setup": "On-site",
+  "salary_range": {
+    "min": 25000,
+    "max": 35000,
+    "currency": "PHP",
+    "period": "monthly"
+  },
+  "requirements": {
+    "education": "BS Medical Technology, PRC License required",
+    "years_experience": 1,
+    "skills": ["Laboratory testing", "Equipment operation", "Quality control"],
+    "certifications": ["PRC MedTech License"],
+    "language_requirements": ["English", "Filipino"]
+  },
+  "benefits": {
+    "mandatory": ["SSS", "PhilHealth", "Pag-IBIG", "13th month pay"],
+    "additional": ["HMO", "Shift differential", "Hazard pay", "Continuing education"]
+  },
+  "application_details": {
+    "deadline": "2024-11-20",
+    "channels": ["Walk-in", "Email"],
+    "documents_required": ["Resume", "PRC ID", "TOR", "Board Rating"]
+  },
+  "job_description": "Perform laboratory tests and maintain equipment...",
+  "posted_date": "2024-10-24",
+  "urgent_hire": true,
+  "vacancy_count": 25
+},
+{
+  "job_id": "JP033",
+  "position_title": "UI/UX Designer",
+  "company": "Canva Philippines",
+  "industry": "Tech",
+  "location": "BGC, Taguig City",
+  "employment_type": "Full-time",
+  "work_setup": "Remote",
+  "salary_range": {
+    "min": 70000,
+    "max": 120000,
+    "currency": "PHP",
+    "period": "monthly"
+  },
+  "requirements": {
+    "education": "Bachelor's degree in Design, Computer Science, or related field",
+    "years_experience": 4,
+    "skills": ["Figma", "Adobe XD", "User research", "Prototyping", "Design systems"],
+    "certifications": [],
+    "language_requirements": ["English"]
+  },
+  "benefits": {
+    "mandatory": ["SSS", "PhilHealth", "Pag-IBIG", "13th month pay"],
+    "additional": ["HMO with family", "Stock options", "Home office setup", "Unlimited PTO"]
+  },
+  "application_details": {
+    "deadline": "2024-12-05",
+    "channels": ["Company website"],
+    "documents_required": ["Resume", "Portfolio", "Case studies", "TOR"]
+  },
+  "job_description": "Design user interfaces for design tool platform...",
+  "posted_date": "2024-10-23",
+  "urgent_hire": false,
+  "vacancy_count": 4
+},
+{
+  "job_id": "JP034",
+  "position_title": "Insurance Advisor",
+  "company": "Sun Life Financial Philippines",
+  "industry": "Insurance",
+  "location": "Makati City, Metro Manila",
+  "employment_type": "Commission-based",
+  "work_setup": "Field",
+  "salary_range": {
+    "min": 0,
+    "max": 0,
+    "currency": "PHP",
+    "period": "commission"
+  },
+  "requirements": {
+    "education": "Bachelor's degree in any field",
+    "years_experience": 0,
+    "skills": ["Sales", "Financial planning", "Relationship building"],
+    "certifications": ["Insurance Commission license required"],
+    "language_requirements": ["English", "Filipino"]
+  },
+  "benefits": {
+    "mandatory": ["SSS", "PhilHealth", "Pag-IBIG"],
+    "additional": ["High commission", "Sales incentives", "Travel rewards", "Career progression"]
+  },
+  "application_details": {
+    "deadline": "2024-12-31",
+    "channels": ["Walk-in interview"],
+    "documents_required": ["Resume", "TOR", "NBI Clearance"]
+  },
+  "job_description": "Sell life insurance and investment products...",
+  "posted_date": "2024-10-25",
+  "urgent_hire": true,
+  "vacancy_count": 50
+},
+{
+  "job_id": "JP035",
+  "position_title": "Chef de Partie",
+  "company": "Okada Manila",
+  "industry": "Hospitality",
+  "location": "Entertainment City, Parañaque",
+  "employment_type": "Full-time",
+  "work_setup": "On-site",
+  "salary_range": {
+    "min": 35000,
+    "max": 50000,
+    "currency": "PHP",
+    "period": "monthly"
+  },
+  "requirements": {
+    "education": "Culinary Arts degree or equivalent",
+    "years_experience": 3,
+    "skills": ["French cuisine", "Kitchen management", "Food costing", "Menu planning"],
+    "certifications": [],
+    "language_requirements": ["English", "Filipino"]
+  },
+  "benefits": {
+    "mandatory": ["SSS", "PhilHealth", "Pag-IBIG", "13th month pay"],
+    "additional": ["HMO", "Meal allowance", "Uniform", "Service charge", "Hotel discounts"]
+  },
+  "application_details": {
+    "deadline": "2024-11-30",
+    "channels": ["Walk-in", "Email"],
+    "documents_required": ["Resume", "Culinary portfolio", "TOR"]
+  },
+  "job_description": "Lead a section in fine dining restaurant kitchen...",
+  "posted_date": "2024-10-22",
+  "urgent_hire": true,
+  "vacancy_count": 6
+},
+{
+  "job_id": "JP036",
+  "position_title": "Virtual Assistant",
+  "company": "Remote Staff",
+  "industry": "BPO",
+  "location": "Remote (Philippines)",
+  "employment_type": "Full-time",
+  "work_setup": "Remote",
+  "salary_range": {
+    "min": 25000,
+    "max": 40000,
+    "currency": "PHP",
+    "period": "monthly"
+  },
+  "requirements": {
+    "education": "Bachelor's degree in any field",
+    "years_experience": 2,
+    "skills": ["Administrative tasks", "Calendar management", "Email handling", "Social media management"],
+    "certifications": [],
+    "language_requirements": ["English"]
+  },
+  "benefits": {
+    "mandatory": ["SSS", "PhilHealth", "Pag-IBIG", "13th month pay"],
+    "additional": ["HMO", "Internet allowance", "Performance bonus", "Flexible schedule"]
+  },
+  "application_details": {
+    "deadline": "2024-12-20",
+    "channels": ["Online portal"],
+    "documents_required": ["Resume", "TOR", "Internet speed test"]
+  },
+  "job_description": "Provide administrative support to international clients...",
+  "posted_date": "2024-10-24",
+  "urgent_hire": false,
+  "vacancy_count": 15
+},
+{
+  "job_id": "JP037",
+  "position_title": "Environmental Engineer",
+  "company": "Manila Water Company",
+  "industry": "Utilities",
+  "location": "Balara, Quezon City",
+  "employment_type": "Full-time",
+  "work_setup": "Field",
+  "salary_range": {
+    "min": 40000,
+    "max": 60000,
+    "currency": "PHP",
+    "period": "monthly"
+  },
+  "requirements": {
+    "education": "Bachelor's degree in Environmental Engineering, Chemical Engineering, or related field",
+    "years_experience": 3,
+    "skills": ["Water treatment", "Environmental compliance", "Waste management", "Data analysis"],
+    "certifications": ["PRC license preferred"],
+    "language_requirements": ["English", "Filipino"]
+  },
+  "benefits": {
+    "mandatory": ["SSS", "PhilHealth", "Pag-IBIG", "13th month pay"],
+    "additional": ["HMO", "Field allowance", "Transportation", "Performance bonus"]
+  },
+  "application_details": {
+    "deadline": "2024-12-15",
+    "channels": ["Company website"],
+    "documents_required": ["Resume", "TOR", "COE"]
+  },
+  "job_description": "Manage water treatment processes and environmental compliance...",
+  "posted_date": "2024-10-23",
+  "urgent_hire": false,
+  "vacancy_count": 4
+},
+{
+  "job_id": "JP038",
+  "position_title": "Legal Associate",
+  "company": "SyCip Salazar Hernandez & Gatmaitan",
+  "industry": "Legal",
+  "location": "Makati City, Metro Manila",
+  "employment_type": "Full-time",
+  "work_setup": "On-site",
+  "salary_range": {
+    "min": 60000,
+    "max": 90000,
+    "currency": "PHP",
+    "period": "monthly"
+  },
+  "requirements": {
+    "education": "Bachelor of Laws, Bar passer required",
+    "years_experience": 1,
+    "skills": ["Legal research", "Document drafting", "Case management", "Client consultation"],
+    "certifications": ["Philippine Bar License"],
+    "language_requirements": ["English", "Filipino"]
+  },
+  "benefits": {
+    "mandatory": ["SSS", "PhilHealth", "Pag-IBIG", "13th month pay"],
+    "additional": ["HMO with family", "Professional development", "Bar review support", "Performance bonus"]
+  },
+  "application_details": {
+    "deadline": "2024-12-10",
+    "channels": ["Email"],
+    "documents_required": ["Resume", "Bar ID", "TOR", "Writing sample"]
+  },
+  "job_description": "Assist in corporate law cases and transactions...",
+  "posted_date": "2024-10-25",
+  "urgent_hire": true,
+  "vacancy_count": 5
+},
+{
+  "job_id": "JP039",
+  "position_title": "Animator",
+  "company": "Toon City Animation",
+  "industry": "Animation",
+  "location": "Ortigas Center, Pasig City",
+  "employment_type": "Full-time",
+  "work_setup": "On-site",
+  "salary_range": {
+    "min": 30000,
+    "max": 50000,
+    "currency": "PHP",
+    "period": "monthly"
+  },
+  "requirements": {
+    "education": "Bachelor's degree in Fine Arts, Animation, or related field",
+    "years_experience": 2,
+    "skills": ["2D animation", "Adobe Animate", "Toon Boom", "Storyboarding"],
+    "certifications": [],
+    "language_requirements": ["English"]
+  },
+  "benefits": {
+    "mandatory": ["SSS", "PhilHealth", "Pag-IBIG", "13th month pay"],
+    "additional": ["HMO", "Animation software", "Overtime pay", "Creative environment"]
+  },
+  "application_details": {
+    "deadline": "2024-12-05",
+    "channels": ["Email", "Portfolio submission"],
+    "documents_required": ["Resume", "Demo reel", "Portfolio", "TOR"]
+  },
+  "job_description": "Create 2D animations for international TV shows...",
+  "posted_date": "2024-10-22",
+  "urgent_hire": false,
+  "vacancy_count": 10
+},
+{
+  "job_id": "JP040",
+  "position_title": "SEO Specialist",
+  "company": "iPrice Group",
+  "industry": "E-commerce",
+  "location": "Makati City, Metro Manila",
+  "employment_type": "Full-time",
+  "work_setup": "Remote",
+  "salary_range": {
+    "min": 40000,
+    "max": 65000,
+    "currency": "PHP",
+    "period": "monthly"
+  },
+  "requirements": {
+    "education": "Bachelor's degree in Marketing, IT, or related field",
+    "years_experience": 3,
+    "skills": ["Keyword research", "On-page SEO", "Link building", "Google Analytics", "Ahrefs/SEMrush"],
+    "certifications": ["Google Analytics Certified"],
+    "language_requirements": ["English"]
+  },
+  "benefits": {
+    "mandatory": ["SSS", "PhilHealth", "Pag-IBIG", "13th month pay"],
+    "additional": ["HMO", "Internet allowance", "Performance bonus", "Remote work equipment"]
+  },
+  "application_details": {
+    "deadline": "2024-11-30",
+    "channels": ["Company portal"],
+    "documents_required": ["Resume", "SEO case studies", "TOR"]
+  },
+  "job_description": "Optimize e-commerce platform for search engines...",
+  "posted_date": "2024-10-24",
+  "urgent_hire": true,
+  "vacancy_count": 4
+},
+{
+  "job_id": "JP041",
+  "position_title": "Dental Hygienist",
+  "company": "Dental World",
+  "industry": "Healthcare",
+  "location": "Multiple locations, Metro Manila",
+  "employment_type": "Full-time",
+  "work_setup": "On-site",
+  "salary_range": {
+    "min": 25000,
+    "max": 40000,
+    "currency": "PHP",
+    "period": "monthly"
+  },
+  "requirements": {
+    "education": "BS Dental Hygiene, PRC License required",
+    "years_experience": 1,
+    "skills": ["Teeth cleaning", "Patient education", "Dental equipment operation"],
+    "certifications": ["PRC Dental Hygienist License"],
+    "language_requirements": ["English", "Filipino"]
+  },
+  "benefits": {
+    "mandatory": ["SSS", "PhilHealth", "Pag-IBIG", "13th month pay"],
+    "additional": ["HMO", "Commission on treatments", "Uniform allowance", "Continuing education"]
+  },
+  "application_details": {
+    "deadline": "2024-12-20",
+    "channels": ["Walk-in", "Email"],
+    "documents_required": ["Resume", "PRC ID", "TOR", "Board Rating"]
+  },
+  "job_description": "Provide dental cleaning and preventive care services...",
+  "posted_date": "2024-10-23",
+  "urgent_hire": true,
+  "vacancy_count": 15
+},
+{
+  "job_id": "JP042",
+  "position_title": "Supply Chain Analyst",
+  "company": "Unilever Philippines",
+  "industry": "Manufacturing",
+  "location": "Laguna",
+  "employment_type": "Full-time",
+  "work_setup": "Hybrid",
+  "salary_range": {
+    "min": 45000,
+    "max": 70000,
+    "currency": "PHP",
+    "period": "monthly"
+  },
+  "requirements": {
+    "education": "Bachelor's degree in Supply Chain, Industrial Engineering, or related field",
+    "years_experience": 3,
+    "skills": ["Inventory management", "Logistics planning", "Data analysis", "SAP"],
+    "certifications": [],
+    "language_requirements": ["English", "Filipino"]
+  },
+  "benefits": {
+    "mandatory": ["SSS", "PhilHealth", "Pag-IBIG", "13th month pay"],
+    "additional": ["HMO with family", "Performance bonus", "Product allowances", "Transportation"]
+  },
+  "application_details": {
+    "deadline": "2024-12-10",
+    "channels": ["Company website"],
+    "documents_required": ["Resume", "TOR", "COE"]
+  },
+  "job_description": "Optimize supply chain operations for manufacturing plant...",
+  "posted_date": "2024-10-25",
+  "urgent_hire": false,
+  "vacancy_count": 3
+},
+{
+  "job_id": "JP043",
+  "position_title": "Video Editor",
+  "company": "Viva Entertainment",
+  "industry": "Entertainment",
+  "location": "Quezon City, Metro Manila",
+  "employment_type": "Full-time",
+  "work_setup": "On-site",
+  "salary_range": {
+    "min": 30000,
+    "max": 50000,
+    "currency": "PHP",
+    "period": "monthly"
+  },
+  "requirements": {
+    "education": "Bachelor's degree in Film, Multimedia Arts, or related field",
+    "years_experience": 2,
+    "skills": ["Adobe Premiere Pro", "After Effects", "Color grading", "Sound editing"],
+    "certifications": [],
+    "language_requirements": ["English", "Filipino"]
+  },
+  "benefits": {
+    "mandatory": ["SSS", "PhilHealth", "Pag-IBIG", "13th month pay"],
+    "additional": ["HMO", "Creative allowance", "Overtime pay", "Movie passes"]
+  },
+  "application_details": {
+    "deadline": "2024-12-05",
+    "channels": ["Email"],
+    "documents_required": ["Resume", "Demo reel", "Portfolio", "TOR"]
+  },
+  "job_description": "Edit films and promotional materials for entertainment company...",
+  "posted_date": "2024-10-22",
+  "urgent_hire": true,
+  "vacancy_count": 6
+},
+{
+  "job_id": "JP044",
+  "position_title": "Safety Officer",
+  "company": "EEI Corporation",
+  "industry": "Construction",
+  "location": "Makati City, Metro Manila",
+  "employment_type": "Full-time",
+  "work_setup": "Field",
+  "salary_range": {
+    "min": 35000,
+    "max": 50000,
+    "currency": "PHP",
+    "period": "monthly"
+  },
+  "requirements": {
+    "education": "Bachelor's degree in Engineering, Occupational Safety, or related field",
+    "years_experience": 3,
+    "skills": ["Safety inspections", "Risk assessment", "OSHA standards", "Incident investigation"],
+    "certifications": ["BOSH/COSH certified"],
+    "language_requirements": ["English", "Filipino"]
+  },
+  "benefits": {
+    "mandatory": ["SSS", "PhilHealth", "Pag-IBIG", "13th month pay"],
+    "additional": ["HMO", "Field allowance", "Hazard pay", "Transportation"]
+  },
+  "application_details": {
+    "deadline": "2024-12-15",
+    "channels": ["Email", "Walk-in"],
+    "documents_required": ["Resume", "Certifications", "TOR", "COE"]
+  },
+  "job_description": "Ensure construction site safety compliance...",
+  "posted_date": "2024-10-24",
+  "urgent_hire": true,
+  "vacancy_count": 8
+},
+{
+  "job_id": "JP045",
+  "position_title": "English Teacher (ESL)",
+  "company": "51Talk Philippines",
+  "industry": "Education",
+  "location": "Remote (Philippines)",
+  "employment_type": "Part-time",
+  "work_setup": "Remote",
+  "salary_range": {
+    "min": 150,
+    "max": 250,
+    "currency": "PHP",
+    "period": "hourly"
+  },
+  "requirements": {
+    "education": "Bachelor's degree in Education, English, or related field",
+    "years_experience": 0,
+    "skills": ["English proficiency", "Teaching", "Communication", "Patience"],
+    "certifications": ["TESOL/TEFL preferred"],
+    "language_requirements": ["English (native proficiency)"]
+  },
+  "benefits": {
+    "mandatory": [],
+    "additional": ["Flexible schedule", "Performance incentives", "Internet allowance", "Work from home"]
+  },
+  "application_details": {
+    "deadline": "2024-12-31",
+    "channels": ["Online portal"],
+    "documents_required": ["Resume", "TOR", "Video introduction"]
+  },
+  "job_description": "Teach English online to Chinese students...",
+  "posted_date": "2024-10-23",
+  "urgent_hire": true,
+  "vacancy_count": 100
+},
+{
+  "job_id": "JP046",
+  "position_title": "Warehouse Manager",
+  "company": "Puregold Price Club",
+  "industry": "Retail",
+  "location": "Caloocan City, Metro Manila",
+  "employment_type": "Full-time",
+  "work_setup": "On-site",
+  "salary_range": {
+    "min": 40000,
+    "max": 60000,
+    "currency": "PHP",
+    "period": "monthly"
+  },
+  "requirements": {
+    "education": "Bachelor's degree in Business, Logistics, or related field",
+    "years_experience": 5,
+    "skills": ["Warehouse operations", "Inventory management", "Team leadership", "Logistics"],
+    "certifications": [],
+    "language_requirements": ["English", "Filipino"]
+  },
+  "benefits": {
+    "mandatory": ["SSS", "PhilHealth", "Pag-IBIG", "13th month pay"],
+    "additional": ["HMO", "Performance bonus", "Rice allowance", "Transportation"]
+  },
+  "application_details": {
+    "deadline": "2024-12-10",
+    "channels": ["Email"],
+    "documents_required": ["Resume", "TOR", "COE"]
+  },
+  "job_description": "Manage retail warehouse operations and inventory...",
+  "posted_date": "2024-10-25",
+  "urgent_hire": false,
+  "vacancy_count": 4
+},
+{
+  "job_id": "JP047",
+  "position_title": "Interior Designer",
+  "company": "Bristol Interior Design",
+  "industry": "Design",
+  "location": "Makati City, Metro Manila",
+  "employment_type": "Full-time",
+  "work_setup": "Hybrid",
+  "salary_range": {
+    "min": 35000,
+    "max": 60000,
+    "currency": "PHP",
+    "period": "monthly"
+  },
+  "requirements": {
+    "education": "Bachelor's degree in Interior Design",
+    "years_experience": 3,
+    "skills": ["Space planning", "AutoCAD", "SketchUp", "Material selection", "Client presentation"],
+    "certifications": ["PRC Interior Designer License"],
+    "language_requirements": ["English", "Filipino"]
+  },
+  "benefits": {
+    "mandatory": ["SSS", "PhilHealth", "Pag-IBIG", "13th month pay"],
+    "additional": ["HMO", "Project bonuses", "Design software", "Client referral bonuses"]
+  },
+  "application_details": {
+    "deadline": "2024-12-20",
+    "channels": ["Email", "Portfolio submission"],
+    "documents_required": ["Resume", "Portfolio", "PRC ID", "TOR"]
+  },
+  "job_description": "Design residential and commercial interiors...",
+  "posted_date": "2024-10-22",
+  "urgent_hire": false,
+  "vacancy_count": 3
+},
+{
+  "job_id": "JP048",
+  "position_title": "Network Engineer",
+  "company": "PLDT",
+  "industry": "Telecommunications",
+  "location": "Makati City, Metro Manila",
+  "employment_type": "Full-time",
+  "work_setup": "Field",
+  "salary_range": {
+    "min": 50000,
+    "max": 80000,
+    "currency": "PHP",
+    "period": "monthly"
+  },
+  "requirements": {
+    "education": "Bachelor's degree in IT, Computer Engineering, or related field",
+    "years_experience": 4,
+    "skills": ["Cisco networking", "Network security", "Troubleshooting", "VoIP"],
+    "certifications": ["CCNA/CCNP preferred"],
+    "language_requirements": ["English", "Filipino"]
+  },
+  "benefits": {
+    "mandatory": ["SSS", "PhilHealth", "Pag-IBIG", "13th month pay"],
+    "additional": ["HMO with family", "Field allowance", "Internet plan", "Certification support"]
+  },
+  "application_details": {
+    "deadline": "2024-12-15",
+    "channels": ["Company website"],
+    "documents_required": ["Resume", "Certifications", "TOR", "COE"]
+  },
+  "job_description": "Design and maintain telecommunications network infrastructure...",
+  "posted_date": "2024-10-24",
+  "urgent_hire": true,
+  "vacancy_count": 10
+},
+{
+  "job_id": "JP049",
+  "position_title": "Fitness Trainer",
+  "company": "Fitness First Philippines",
+  "industry": "Wellness",
+  "location": "Multiple locations, Metro Manila",
+  "employment_type": "Full-time",
+  "work_setup": "On-site",
+  "salary_range": {
+    "min": 25000,
+    "max": 45000,
+    "currency": "PHP",
+    "period": "monthly"
+  },
+  "requirements": {
+    "education": "Bachelor's degree in Physical Education, Sports Science, or related field",
+    "years_experience": 2,
+    "skills": ["Personal training", "Group exercise", "Nutrition coaching", "Customer service"],
+    "certifications": ["ACE, NASM, or equivalent certification"],
+    "language_requirements": ["English", "Filipino"]
+  },
+  "benefits": {
+    "mandatory": ["SSS", "PhilHealth", "Pag-IBIG", "13th month pay"],
+    "additional": ["HMO", "Free gym membership", "Commission on training", "Continuing education"]
+  },
+  "application_details": {
+    "deadline": "2024-12-05",
+    "channels": ["Walk-in", "Online"],
+    "documents_required": ["Resume", "Certifications", "TOR", "Demo video"]
+  },
+  "job_description": "Provide personal training and group exercise classes...",
+  "posted_date": "2024-10-23",
+  "urgent_hire": true,
+  "vacancy_count": 20
+},
+{
+  "job_id": "JP050",
+  "position_title": "Business Analyst",
+  "company": "UnionBank of the Philippines",
+  "industry": "Banking",
+  "location": "Pasig City, Metro Manila",
+  "employment_type": "Full-time",
+  "work_setup": "Hybrid",
+  "salary_range": {
+    "min": 60000,
+    "max": 90000,
+    "currency": "PHP",
+    "period": "monthly"
+  },
+  "requirements": {
+    "education": "Bachelor's degree in Business, Finance, IT, or related field",
+    "years_experience": 4,
+    "skills": ["Requirements gathering", "Process mapping", "Data analysis", "Stakeholder management"],
+    "certifications": ["CBAP preferred"],
+    "language_requirements": ["English", "Filipino"]
+  },
+  "benefits": {
+    "mandatory": ["SSS", "PhilHealth", "Pag-IBIG", "13th month pay"],
+    "additional": ["HMO with family", "Performance bonus", "Banking benefits", "Flexible work arrangement"]
+  },
+  "application_details": {
+    "deadline": "2024-12-31",
+    "channels": ["Company portal"],
+    "documents_required": ["Resume", "Case studies", "TOR", "COE"]
+  },
+  "job_description": "Analyze business processes for digital banking initiatives...",
+  "posted_date": "2024-10-25",
+  "urgent_hire": false,
+  "vacancy_count": 5
+}
+]
+}
